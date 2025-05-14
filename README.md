@@ -17,24 +17,6 @@ This project builds a machine learning pipeline to classify cancer severity base
 
 ---
 
-## 📊 Project Structure
-
-```
-cancer_classification_project/
-├── data/                       # Raw dataset
-├── notebooks/                 # (Optional) Exploratory Notebooks
-├── outputs/
-│   ├── figures/               # Confusion matrices, accuracy plots
-│   └── reports/               # Classification metrics (JSON)
-├── src/
-│   ├── data_loader.py
-│   ├── preprocessing.py
-│   ├── model.py
-│   └── utils.py
-├── main.py                    # Pipeline entry point
-└── README.md
-```
-
 ---
 
 ## 🧪 ML Pipeline
@@ -97,7 +79,3 @@ cancer_classification_project/
 MSc Industrial Analytics, Uppsala University
 
 ---
-
-## 📄 License
-
-This project is under the MIT License.
