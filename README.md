@@ -17,8 +17,6 @@ This project builds a machine learning pipeline to classify cancer severity base
 
 ---
 
----
-
 ## 🧪 ML Pipeline
 
 - **Preprocessing**:
